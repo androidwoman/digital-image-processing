@@ -1,3 +1,3 @@
 # DIP
 
-this my DIP home works
+using matlab for digital image processing
